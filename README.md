@@ -2,6 +2,7 @@
 # ¡Hola!, Mi nombre es Leandro Jonatan Andriani.
 
 ¿Quién soy?
+
 Soy un Programador Fullstack. Desde siempre estuve decidido a estudiar informática. En la actualidad me dedico exclusivamente a aumentar mis conocimientos sobre la programación web, buscando mantener el equilibrio entre mis estudios y el trabajo.
 
 ## Experiencia
