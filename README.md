@@ -20,7 +20,13 @@ BackEnd: JavaScript | Java
 
 Database: MySQL
 
+##Contacto
 
+¡No dudes en contactarme si estás interesado en colaborar en un proyecto o si tienes alguna pregunta!
+
+Linkedin: www.linkedin.com/in/leandro-jonatan-andriani-07194b238/
+
+Email: andrianileandro@hotmail.com
 <!--
 **Leandro-hub24/Leandro-hub24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
