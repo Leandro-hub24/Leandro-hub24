@@ -15,7 +15,9 @@ Mi objetivo es seguir contribuyendo al mundo del desarrollo de software y colabo
 Las principales tecnologías que manejo son:
 
 FrontEnd: JavaScript | HTML | CSS
+
 BackEnd: JavaScript | Java
+
 Database: MySQL
 
 
