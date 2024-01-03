@@ -20,7 +20,7 @@ BackEnd: JavaScript | Java
 
 Database: MySQL
 
-##Contacto
+## Contacto
 
 ¡No dudes en contactarme si estás interesado en colaborar en un proyecto o si tienes alguna pregunta!
 
