@@ -7,7 +7,9 @@ Soy un Programador Fullstack. Desde siempre estuve decidido a estudiar informát
 
 ## Experiencia
 
-Llevé a cabo en conjunto una aplicación web para ventas de Videojuegos, la cual puede adaptarse para la venta de cualquier otro producto. (repositorio anclado, solo esta disponible para la vista del Front-end, no cuento con dominio ni hosting para mostrar la version completa con el Back-end)
+Llevé a cabo en conjunto una aplicación web para ventas de Videojuegos, la cual puede adaptarse para la venta de cualquier otro producto. (Repositorio anclado, solo esta disponible para la vista del Front-end, no cuento con dominio ni hosting para mostrar la version completa con el Back-end)
+
+Llevé a cabo en conjunto una aplicación web que conecta dueños de mascotas dispuestos a brindar alojamiento temporal en el marco de una simulación laboral realizada por No Country. (Repositorio anclado)
 
 Mi objetivo es seguir contribuyendo al mundo del desarrollo de software y colaborar en proyectos emocionantes.
 
@@ -17,9 +19,9 @@ Las principales tecnologías que manejo son:
 
 FrontEnd: JavaScript | HTML | CSS
 
-BackEnd: JavaScript | Java
+BackEnd: JavaScript | Java | Node.js
 
-Database: MySQL
+Database: MySQL | PostgreSQL
 
 ## Contacto
 
